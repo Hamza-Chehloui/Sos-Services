@@ -838,6 +838,35 @@ a:focus {
 .contact_section input {
   color: #000000;
 }
+.avantages img{
+  width: 50%;
+  display: flex;
+  margin-right: auto;
+ 
+}
+.avantages{
+  background:rgba(1, 4, 10, 0.922);
+  color:#fff;
+  font-style: oblique;
+  position: relative;
+  margin: 10px;
+  
+}
+.message{
+position: absolute;
+top: 0;
+right: 0;
+width: 50%;
+height: 100%;
+font-size:larger;
+display: flex;
+align-items: center;
+padding-inline:10px;
+}
+#nos{
+  padding-inline: 10px;
+}
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
